@@ -30,7 +30,7 @@ under the License.
 
   <artifactId>maven</artifactId>
   <version>4.0.0-alpha-13-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
   <name>Apache Maven</name>
   <description>Maven is a software build management and
